@@ -11,8 +11,8 @@
 	<groupId>com.api</groupId>
 	<artifactId>rest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>rest</name>
+	<description>REST API</description>
 
 	<properties>
 		<java.version>11</java.version>
